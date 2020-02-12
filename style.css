@@ -1,0 +1,92 @@
+span{
+	background-color:#3D58A6;
+	font-size: 40px;
+	color: #FFFFFF;
+}
+a {
+	text-decoration: none;
+}
+ul{
+	list-style: none;
+
+}
+li{
+	display: inline-block;
+     margin-top: 1px;
+     margin-right: 10px;
+     margin-left: 100px;
+     margin-bottom: 50px;
+}
+.picture{
+	vertical-align: -0.5em;
+}
+.test3{
+	display: inline-block;
+	
+}
+
+.red-color{
+	color: #EE4036
+
+}
+.blue-color{
+	color: #3D58A6;
+}
+.blue{
+	color: #3D58A6;
+}
+p{
+	font-size: 10px;
+}
+
+.number{
+	margin-bottom: 20px;
+}
+.maisi2{
+
+	color: #3D58A6;
+
+}
+.maisi{
+	color: #3D58A6
+}
+.box{
+	display: inline-block;
+	width: 500px;
+	
+}
+
+.poto1{
+    vertical-align: top;
+}
+.maisi1{
+	color: #3D58A6
+
+}
+.box1{	
+	display: inline-block;
+	width: 500px;
+
+}
+.paragrapi{
+	font-size: 10px;
+
+}
+
+.poto2{
+	vertical-align: top;
+}
+.facebook{
+	margin-right: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
